@@ -1,6 +1,9 @@
 
 # Physics-Informed Koopman NMPC for Quadrotor Simulator
 
+## Acknowledgements
+
+The Koopman section of this project is a Python translation of work originally done by KongYao Chee. Additionally, the quadrotor simulator used in this project was adapted from a class offered by the University of Pennsylvania (UPenn).
 
 
 ## Overview
